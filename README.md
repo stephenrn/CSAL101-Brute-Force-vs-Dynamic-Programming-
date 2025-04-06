@@ -1,7 +1,6 @@
 # Think-Pair-Share: Brute Force vs Dynamic Programming
 
-### Stephen Raine Villeta
-### Jeferson Ruiz Cabalsa
+### Stephen Raine Villeta | Jeferson Ruiz Cabalsa
 
 ## Objective:
 In this activity, you will work with a partner to solve two algorithmic problems using both brute force and dynamic programming (DP) approaches. After solving and comparing the solutions, you will present your findings to the class, analyzing the efficiency of both approaches.
